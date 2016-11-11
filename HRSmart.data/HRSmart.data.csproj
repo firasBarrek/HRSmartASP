@@ -61,13 +61,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\address.cs" />
-    <Compile Include="Models\assessment.cs" />
-    <Compile Include="Models\buisness.cs" />
-    <Compile Include="Models\certificat.cs" />
-    <Compile Include="Models\choice.cs" />
-    <Compile Include="Models\joboffer.cs" />
-    <Compile Include="Models\jobskill.cs" />
+    <Compile Include="Infrastructure\DataBaseFactory.cs" />
+    <Compile Include="Infrastructure\Disposable.cs" />
+    <Compile Include="Infrastructure\IDataBaseFactory.cs" />
+    <Compile Include="Infrastructure\IRepositoryBase.cs" />
+    <Compile Include="Infrastructure\IUnitOfWork.cs" />
+    <Compile Include="Infrastructure\RepositoryBase.cs" />
+    <Compile Include="Infrastructure\UnitOfWork.cs" />
     <Compile Include="Models\Mapping\addressMap.cs" />
     <Compile Include="Models\Mapping\assessmentMap.cs" />
     <Compile Include="Models\Mapping\buisnessMap.cs" />
@@ -86,16 +86,6 @@
     <Compile Include="Models\Mapping\userMap.cs" />
     <Compile Include="Models\Mapping\userskillMap.cs" />
     <Compile Include="Models\mysqlpiContext.cs" />
-    <Compile Include="Models\notification.cs" />
-    <Compile Include="Models\postulation.cs" />
-    <Compile Include="Models\question.cs" />
-    <Compile Include="Models\quiz.cs" />
-    <Compile Include="Models\reward.cs" />
-    <Compile Include="Models\skill.cs" />
-    <Compile Include="Models\stage.cs" />
-    <Compile Include="Models\user.cs" />
-    <Compile Include="Models\userbuisness.cs" />
-    <Compile Include="Models\userskill.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

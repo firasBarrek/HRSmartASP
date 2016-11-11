@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace HRSmart.data.Models
+namespace HRSmart.Domain.Entities
 {
     public partial class user
     {

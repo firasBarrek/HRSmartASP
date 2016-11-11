@@ -1,6 +1,7 @@
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using HRSmart.data.Models.Mapping;
+using HRSmart.Domain.Entities;
 
 namespace HRSmart.data.Models
 {
