@@ -80,6 +80,10 @@
       <Project>{35f04e2c-bdc8-4dd7-81c1-382826e2b286}</Project>
       <Name>HRSmart.Domain</Name>
     </ProjectReference>
+    <ProjectReference Include="..\HRSmart.ServicePattern\HRSmart.ServicePattern.csproj">
+      <Project>{E78F3208-8794-4A15-88D3-5A76565DB4C2}</Project>
+      <Name>HRSmart.ServicePattern</Name>
+    </ProjectReference>
     <ProjectReference Include="..\HRSmart.Service\HRSmart.Service.csproj">
       <Project>{0c7459af-4f33-44af-9b8d-9c198af3c22f}</Project>
       <Name>HRSmart.Service</Name>

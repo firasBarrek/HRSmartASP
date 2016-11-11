@@ -40,8 +40,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\address.cs" />
+    <Compile Include="Entities\assessment.cs" />
+    <Compile Include="Entities\buisness.cs" />
+    <Compile Include="Entities\certificat.cs" />
+    <Compile Include="Entities\choice.cs" />
+    <Compile Include="Entities\joboffer.cs" />
+    <Compile Include="Entities\jobskill.cs" />
+    <Compile Include="Entities\notification.cs" />
+    <Compile Include="Entities\postulation.cs" />
+    <Compile Include="Entities\question.cs" />
+    <Compile Include="Entities\quiz.cs" />
+    <Compile Include="Entities\reward.cs" />
+    <Compile Include="Entities\skill.cs" />
+    <Compile Include="Entities\stage.cs" />
+    <Compile Include="Entities\user.cs" />
+    <Compile Include="Entities\userbuisness.cs" />
+    <Compile Include="Entities\userskill.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

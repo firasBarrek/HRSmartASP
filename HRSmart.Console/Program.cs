@@ -1,4 +1,6 @@
 ﻿using HRSmart.data.Models;
+using HRSmart.Domain.Entities;
+using HRSmart.Service.Business;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,11 +14,14 @@ namespace HRSmart.Console
         static void Main(string[] args)
         {
             System.Console.WriteLine("here1");
-            mysqlpiContext mc = new mysqlpiContext();
+            //mysqlpiContext mc = new mysqlpiContext();
             buisness b = new buisness();
-            b.name = "test2";
-            mc.buisnesses.Add(b);
-            mc.SaveChanges();
+            b.name = "test final";
+            /*mc.buisnesses.Add(b);
+            mc.SaveChanges();*/
+            IServiceBusiness service = new ServiceBusiness();
+            service.Add(b);
+            service.commit();
             System.Console.WriteLine("here2");
             System.Console.Read();
         }
