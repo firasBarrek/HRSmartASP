@@ -68,7 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -81,7 +83,7 @@
       <Name>HRSmart.Domain</Name>
     </ProjectReference>
     <ProjectReference Include="..\HRSmart.ServicePattern\HRSmart.ServicePattern.csproj">
-      <Project>{E78F3208-8794-4A15-88D3-5A76565DB4C2}</Project>
+      <Project>{e78f3208-8794-4a15-88d3-5a76565db4c2}</Project>
       <Name>HRSmart.ServicePattern</Name>
     </ProjectReference>
     <ProjectReference Include="..\HRSmart.Service\HRSmart.Service.csproj">
