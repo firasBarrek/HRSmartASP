@@ -1,0 +1,5 @@
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.Domain\bin\Debug\HRSmart.Domain.dll
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.Domain\bin\Debug\HRSmart.Domain.pdb
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.Domain\obj\Debug\HRSmart.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.Domain\obj\Debug\HRSmart.Domain.dll
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.Domain\obj\Debug\HRSmart.Domain.pdb

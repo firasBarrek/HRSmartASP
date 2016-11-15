@@ -1,0 +1,17 @@
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\HRSmart.data.dll.config
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\HRSmart.data.dll
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\HRSmart.data.pdb
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\EntityFramework.dll
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\HRSmart.Domain.dll
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\MySql.Data.dll
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\HRSmart.Domain.pdb
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\EntityFramework.xml
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\MySql.Data.xml
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\obj\Debug\HRSmart.data.csprojResolveAssemblyReference.cache
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\obj\Debug\HRSmart.data.dll
+C:\Users\Yesmine\Source\Repos\HRSmartASP\HRSmart.data\obj\Debug\HRSmart.data.pdb
