@@ -250,9 +250,17 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Shared\templateLayout.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\template\css\" />
+    <Folder Include="Content\template\dashboards\" />
+    <Folder Include="Content\template\fonts\" />
+    <Folder Include="Content\template\img\" />
+    <Folder Include="Content\template\js\" />
+    <Folder Include="Content\template\media\" />
+    <Folder Include="Content\template\vendors\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
