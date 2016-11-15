@@ -9,3 +9,5 @@ C:\Users\Maynoo\Source\Repos\HRSmartASP\HRSmart.Service\bin\Debug\EntityFramewor
 C:\Users\Maynoo\Source\Repos\HRSmartASP\HRSmart.Service\obj\Debug\HRSmart.Service.csprojResolveAssemblyReference.cache
 C:\Users\Maynoo\Source\Repos\HRSmartASP\HRSmart.Service\obj\Debug\HRSmart.Service.dll
 C:\Users\Maynoo\Source\Repos\HRSmartASP\HRSmart.Service\obj\Debug\HRSmart.Service.pdb
+C:\Users\Maynoo\Source\Repos\HRSmartASP\HRSmart.Service\bin\Debug\HRSmart.ServicePattern.dll
+C:\Users\Maynoo\Source\Repos\HRSmartASP\HRSmart.Service\bin\Debug\HRSmart.ServicePattern.pdb

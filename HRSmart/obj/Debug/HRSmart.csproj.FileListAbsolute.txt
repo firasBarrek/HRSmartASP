@@ -80,3 +80,5 @@ C:\Users\Maynoo\Source\Repos\HRSmartASP\HRSmart\bin\Microsoft.Owin.Security.Micr
 C:\Users\Maynoo\Source\Repos\HRSmartASP\HRSmart\obj\Debug\HRSmart.csprojResolveAssemblyReference.cache
 C:\Users\Maynoo\Source\Repos\HRSmartASP\HRSmart\obj\Debug\HRSmart.dll
 C:\Users\Maynoo\Source\Repos\HRSmartASP\HRSmart\obj\Debug\HRSmart.pdb
+C:\Users\Maynoo\Source\Repos\HRSmartASP\HRSmart\bin\HRSmart.ServicePattern.dll
+C:\Users\Maynoo\Source\Repos\HRSmartASP\HRSmart\bin\HRSmart.ServicePattern.pdb
