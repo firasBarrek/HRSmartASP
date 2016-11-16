@@ -32,6 +32,7 @@ namespace HRSmart.data.Models.Mapping
             this.HasRequired(t => t.skill)
                 .WithMany(t => t.jobskills)
                 .HasForeignKey(d => d.skill_id);
+            
 
         }
     }

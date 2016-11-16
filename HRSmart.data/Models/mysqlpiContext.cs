@@ -37,6 +37,8 @@ namespace HRSmart.data.Models
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+            
             modelBuilder.Configurations.Add(new addressMap());
             modelBuilder.Configurations.Add(new assessmentMap());
             modelBuilder.Configurations.Add(new buisnessMap());

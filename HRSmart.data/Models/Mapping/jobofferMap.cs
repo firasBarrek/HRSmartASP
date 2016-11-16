@@ -31,7 +31,7 @@ namespace HRSmart.data.Models.Mapping
             this.HasOptional(t => t.buisness)
                 .WithMany(t => t.joboffers)
                 .HasForeignKey(d => d.buisness_id);
-
+            
         }
     }
 }

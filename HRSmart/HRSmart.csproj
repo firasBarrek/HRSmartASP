@@ -185,6 +185,7 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\JobOfferController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -251,6 +252,8 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Shared\templateLayout.cshtml" />
+    <Content Include="Views\JobOffer\Index.cshtml" />
+    <Content Include="Views\JobOffer\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -278,6 +281,10 @@
     <ProjectReference Include="..\HRSmart.Domain\HRSmart.Domain.csproj">
       <Project>{35f04e2c-bdc8-4dd7-81c1-382826e2b286}</Project>
       <Name>HRSmart.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HRSmart.ServicePattern\HRSmart.ServicePattern.csproj">
+      <Project>{e78f3208-8794-4a15-88d3-5a76565db4c2}</Project>
+      <Name>HRSmart.ServicePattern</Name>
     </ProjectReference>
     <ProjectReference Include="..\HRSmart.Service\HRSmart.Service.csproj">
       <Project>{0c7459af-4f33-44af-9b8d-9c198af3c22f}</Project>

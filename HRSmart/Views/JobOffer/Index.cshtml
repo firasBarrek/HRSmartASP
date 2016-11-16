@@ -1,0 +1,55 @@
+﻿@{
+    Layout = "~/Views/Shared/templateLayout.cshtml";
+
+}
+
+<div class="container">
+    <div class="block-header">
+        <h2>Data Table</h2>
+        <div class="card">
+            <div class="card-header">
+                <h2>
+                    Basic Example
+                    <small>
+                        It's just that simple. Turn your simple table into a sophisticated data table and
+                        offer your users a nice experience and great features without any effort.
+                    </small>
+                </h2>
+            </div>
+            <div class="table-responsive">
+                <table id="data-table-basic" class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Salary</th>
+                            <th>Buisness</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <th>Title</th>
+                            <th>Salary</th>
+                            <th>Buisness</th>
+                            <th>Description</th>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                        @foreach (var j in ViewBag.jobs)
+                        {
+                            <tr>
+                                <td>@j.title</td>
+                                <td>@j.salary $</td>
+                                <td>@j.buisness.name</td>
+                                <td>@j.description</td>
+                                <td><a href="">Details</a></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+
+    </div>
+</div>
